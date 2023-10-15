@@ -1,0 +1,2 @@
+SELECT AVG(open) FROM stock_prices
+WHERE ticker='GOOG';
