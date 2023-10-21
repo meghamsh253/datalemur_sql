@@ -1,0 +1,2 @@
+SELECT review_id, submit_date, stars
+ FROM reviews;

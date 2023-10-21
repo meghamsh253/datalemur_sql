@@ -1,0 +1,3 @@
+SELECT manufacturer,drug,units_sold FROM pharmacy_sales
+WHERE (manufacturer='Biogen' OR manufacturer='AbbVie' or manufacturer='Eli Lilly' )AND
+UNITS_SOLD BETWEEN 100000 AND 105000;

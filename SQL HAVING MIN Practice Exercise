@@ -1,0 +1,3 @@
+SELECT ticker,MIN(open) as min FROM stock_prices
+GROUP BY ticker
+HAVING MIN(open)>100;
