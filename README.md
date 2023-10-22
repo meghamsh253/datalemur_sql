@@ -1,2 +1,4 @@
-# datalemur_sql
-submissions of datalemur sql questions. 
+# Datalemur_SQL
+submissions of datalemur SQL questions. 
+
+Link:https://datalemur.com/
